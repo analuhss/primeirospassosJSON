@@ -6,12 +6,14 @@
         "diretor": {
             "diretor1": "Sam Fell",
             "diretor2": "Chris Butler"
+            }
         },
         "genêro": {
             "genero1": "animação",
             "genero2": "comédia de terror",
             "genero3": "aventura",
             "genero4": "fantasia"
-        }
-    }
+        },
+        "plataformas": ["Max", "Netflix", "Universal", "Apple TV", "Google Play Films", "Amazon Prime Vibe"],
+        "resenhas": null
 }
