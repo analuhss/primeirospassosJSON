@@ -1,0 +1,17 @@
+
+{
+    "Filme": {
+        "titulo": "Paranorman",
+        "ano": "2012",
+        "diretor": {
+            "diretor1": "Sam Fell",
+            "diretor2": "Chris Butler"
+        },
+        "genêro": {
+            "genero1": "animação",
+            "genero2": "comédia de terror",
+            "genero3": "aventura",
+            "genero4": "fantasia"
+        }
+    }
+}

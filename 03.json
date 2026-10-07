@@ -1,0 +1,8 @@
+{
+    "produto": {
+        "nome": "Aspirador de Pó",
+        "preco": 200.50,
+        "quantidade": 30,
+        "disponivel": true
+    }
+}
